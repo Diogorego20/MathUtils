@@ -5,8 +5,11 @@ _
 
 `mathutils` é um pacote Python leve e eficiente que fornece implementações otimizadas de funções matemáticas comuns, como a sequência de Fibonacci e o cálculo de fatorial. O pacote foi projetado para ser simples, bem documentado e fácil de usar, ideal para fins educacionais e projetos que necessitam de funções matemáticas básicas.
 
+<<<<<<< HEAD
 **Autor:** Aluno Diogo Da Silva Rego, 20240045381
 
+=======
+>>>>>>> 20dd68dce2b236aa81af074211ca7475f3866560
 ---
 
 
